@@ -4,3 +4,6 @@
 [submodule "ardupilot"]
 	path = ardupilot
 	url = git@github.com:hhyasdf/ardupilot.git
+[submodule "qgroundcontrol"]
+	path = qgroundcontrol
+	url = git@github.com:jsyishan/qgroundcontrol.git
