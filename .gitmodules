@@ -1,9 +1,9 @@
 [submodule "Unity"]
 	path = Unity
 	url = git@github.com:jsyishan/Digital-Twin-Unity.git
-[submodule "ardupilot"]
-	path = ardupilot
-	url = git@github.com:hhyasdf/ardupilot.git
 [submodule "qgroundcontrol"]
 	path = qgroundcontrol
 	url = git@github.com:jsyishan/qgroundcontrol.git
+[submodule "mavlink"]
+	path = mavlink
+	url = https://github.com/hhyasdf/ArduPilot_mavlink.git
